@@ -25,3 +25,7 @@ O Catálogo de Serviços é uma funcionalidade central do Backstage. Aprendi com
 ### Impacto Organizacional
 - Visibilidade e Controle: A implementação do Backstage pode oferecer uma visão holística de todas as operações de software, o que melhora a transparência e o controle dentro de uma organização.
 - Colaboração e Produtividade: Ferramentas como o Backstage podem aumentar significativamente a colaboração entre equipes técnicas e não técnicas, resultando em uma maior produtividade e alinhamento estratégico.
+
+## Conhecimento adicionais
+Com uma ferramenta como o Backstage, é possível acelerar o desenvolvimento da equipe por conta de suas automações e facilidades disponibilizadas em processos como o de CI/CD. Também é possível trazer diversas vantagens para os desenvolvedores, como facilidades para executar processos existentes dentro do projeto/organização. Esses processos, que apenas membros mais antigos da equipe conhecem ou processos que não têm documentação, ajudam também a garantir que não tenhamos códigos duplicados. Conseguimos também fazer com que os desenvolvedores da equipe consigam consumir outros serviços, como banco de dados e sistemas de mensageria já existentes dentro da empresa, de forma mais simplificada e ver as tecnologias e plataformas usadas dentro do projeto/organização.
+

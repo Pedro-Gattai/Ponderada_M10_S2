@@ -1,4 +1,7 @@
 # Ponderada - Backstage
+## Processo de compilação e Execução
+
+
 ## Lições Aprendidas com a Implementação do Backstage
 ### Introdução
 Este documento resume os conhecimentos e insights adquiridos ao configurar e explorar a ferramenta Backstage em um ambiente Docker. Backstage é uma plataforma de desenvolvimento usada para gerenciar softwares e serviços dentro de uma empresa.
